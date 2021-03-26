@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ollie, a student at The University of Melbourne 
+- 👋  Hi, I’m Ollie, a student at The University of Melbourne 
 - Most interested in web dev, yet partake in all things programming 🌱 
 
 <!---
